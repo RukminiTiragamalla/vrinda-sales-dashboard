@@ -43,3 +43,7 @@ This Excel dashboard analyzes Vrinda Store’s annual sales performance across c
 
 ## 🖥️ Dashboard Overview
 -![Dashboard Overview](images/dashboard_overview.png)
+
+## 📂 Files
+- `Vrinda_Store_Data_Analysis.xlsx` → Full dataset + dashboard
+- `images/` → All charts, tables, and dashboard screenshots
